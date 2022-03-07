@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662587246194",
+    "project_id": "skribbl-daffc",
+    "storage_bucket": "skribbl-daffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662587246194:android:4d2b3994d8d0962f4d64eb",
+        "android_client_info": {
+          "package_name": "com.example.scribble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662587246194-71lfq92n9dr2lijo0pu7lqf9k95skbek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxYjyheJyJrGY1VucbMt8q4HNb4pkyBb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662587246194-71lfq92n9dr2lijo0pu7lqf9k95skbek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
